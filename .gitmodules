@@ -1,1 +1,4 @@
 
+[submodule "SemesterProjekt-2-OMS"]
+	path = SemesterProjekt-2-OMS
+	url = git@github.com:Math289s/SemesterProjekt-2-OMS.git
